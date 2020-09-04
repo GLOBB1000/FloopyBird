@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: 18e73772afa4f694b88985e24b1caf83
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: b265078efebff6e48846f1b1d000bd8d
+  - enabled: 1
+    path: Assets/Scenes/ReverseGame.unity
+    guid: 5622c268fa643fd4395d7c662daa1625
+  - enabled: 1
+    path: Assets/Scenes/Shop.unity
+    guid: af33e8c9242ca9c4d9adfe4d1b673d1c
+  m_configObjects: {}
